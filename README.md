@@ -5,10 +5,11 @@ in blue alert badges and topic update banner
 
 ![Demo](demo.gif)
 
-In use at:
+### In use at:
 
 * [SE23.life](https://se23.life)
 * [SE26.life](https://se26.life)
 
-**License:** Apache 2.0
+### License 
+Apache 2.0
 
